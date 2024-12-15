@@ -57,6 +57,9 @@ _start:
  printf NEW_LINE, 1
  printf SUB_EXPRESSION, 9
  printf SUB_RESULT, 2
+ jmp _exit
+
+_exit:
  mov rax, 60
  mov rdi, 0
  syscall
