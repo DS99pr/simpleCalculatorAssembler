@@ -1,3 +1,2 @@
-# simpleCalculatorAssembler
-i wrote simple calculator in assembly. contains: adding, subtraction. 
-please help me i'm traumatized
+# AsmSimpleCalculator
+i wrote simple calculator in asm (nasm 64-bit). contains: adding, subtraction. i'm still learnin', so this isn't very good but i'll learn asm. i swear
